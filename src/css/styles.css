@@ -167,8 +167,7 @@ nav ul li a:hover {
 }
 
 .services-grid {
-    display: grid;
-    grid-template-columns: 1fr;
+    
     gap: 25px;
 }
 
